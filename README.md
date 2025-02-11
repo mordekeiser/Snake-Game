@@ -1,5 +1,6 @@
 # Snake-Game
 A simple snake game in mac-os using c++ and no external libraries play-able on terminal. Grow in length while avoiding collisions with the walls and itself.
+
 => Features:
   - Classic Snake Mechanics: Move the snake in four directions, eat food, and avoid collisions.
   - Super Fruit : spawns randomly and provides more points and 3x growth.
