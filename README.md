@@ -8,8 +8,11 @@ A simple snake game in mac-os using c++ and no external libraries play-able on t
   - Simple Menu System: Options to start the game, view the high score, or exit.
 
 =>How to run:
+
   1)Download the c++ file
+  
   2)To compile and run the game, use a C++ compiler
+  
   3)Enter the command - g++ -o snek snekgame.cpp
                       - ./snek
             
