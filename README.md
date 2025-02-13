@@ -50,5 +50,6 @@ A simple snake game in mac-os using c++ and no external libraries play-able on t
     5)#include <ctime> :- Provides time(0) for seeding rand() to ensure different fruit positions each run
 
     6)#include <fcntl.h> :- Used for setting non-blocking input mode in getInput() function
-
+    
+## Developed By : Tirth Patel , Kavya Patel ,Dhruvil
 
