@@ -29,7 +29,7 @@ A simple snake game in mac-os using c++ and no external libraries play-able on t
 
 => The following C++ standard libraries are used:
 
-1)#include <iostream> :-Used for input/output operations (printing game board, taking user input)
+1)#include  <iostream> :-Used for input/output operations (printing game board, taking user input)
 
 2)#include <unistd.h> :- Provides usleep() function for controlling game speed (Linux/macOS)
 
